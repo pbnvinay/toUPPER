@@ -7,6 +7,6 @@ public class toUppercase {
                 str[i] = (char) (str[i] - 32);
             }
         }
-        System.out.println(new String(str));
+        System.out.println(str);
     }
 }
